@@ -1,6 +1,6 @@
 # how to install driver for printer
 
-[![how to install driver for printer](gett-detail.png)](https://github.com/ensoftonic/how.to.install.driver.for.printer)
+[![how to install driver for printer](gett-detail.png)](https://computersolve.com/how-to-install-driver-for-printer/)
 
 Before you use these instructions, review the installation instructions for your printer. If it’s a new printer, you can probably find a quick-start guide included in the box. If you're reinstalling the printer driver for an older printer, go to the manufacturer’s web site and look for the printer manual, which is often in the site’s support pages.
 
